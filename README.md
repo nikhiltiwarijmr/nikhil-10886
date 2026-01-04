@@ -33,6 +33,10 @@ Iteration count is calculated for both loops and the results are compared to ens
 - Helpful for beginners learning loop optimization  
 
 ## Expected Output Example
+<img width="521" height="573" alt="output" src="https://github.com/user-attachments/assets/c3bfe9f0-bf85-4d0e-aa5c-b4f7c439ea7f" />
+
+
+<img width="437" height="233" alt="output2" src="https://github.com/user-attachments/assets/c0aad94f-876e-4677-b3cc-0c83357fad4a" />
 
 
 
